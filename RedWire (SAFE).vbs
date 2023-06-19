@@ -11,7 +11,7 @@ lol=msgbox("Time Until Bomb Explodes: 2 Clicks",32,"This is a Bomb.")
 lol=msgbox("Time Until Bomb Explodes: 1 Clicks",32,"This is a Bomb.")
 lol=msgbox("LAST CHANCE!",32,"This is a Bomb.")
 lol=msgbox("Just Kidding, You just got Pranked.LMAOOOOOOOOOO!! XDXD L=Ratio BOZO.",32,"This NOT is a Bomb.")
-lol=msgbox("A simple vbs script by GamerzSocks. Exploding one coming soon.",32,"This NOT is a Bomb.")
+lol=msgbox("A simple vbs script by GamerzSocks.",32,"This NOT is a Bomb.")
 
 
 
