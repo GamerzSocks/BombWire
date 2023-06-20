@@ -1,0 +1,20 @@
+VERSION HISTORY:
+
+V0.5:
+Finished the redwire project. i will finish the BlueWire explosion soon.
+
+
+V1.0:
+Finishes BlueWire, and the official launch on GitHub.
+
+
+V1.01:
+Fixes some Grammar in redwire.
+
+
+V1.1:
+NEW TEXT FOR REDWIRE!!!
+
+
+V1.1.1:
+more grammar fixes for redwire.
