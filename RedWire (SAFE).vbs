@@ -18,7 +18,7 @@ lol=msgbox("...",32,"This is a Bomb.")
 lol=msgbox("huh?",32,"This is a Bomb.")
 lol=msgbox("it's supposed to blow up by now",32,"This is a Bomb.")
 lol=msgbox("well, this entire time...",32,"This is a Bomb.")
-lol=msgbox("You've just been Pranked!!! LMAOOOOOOOOOO!! XDXD L=Ratio BOZO.",32,"This NOT is a Bomb.")
+lol=msgbox("You've just been Pranked!!! LMAOOOOOOOOOO!! XDXD Get L=Ratio'ed BOZO.",32,"This NOT is a Bomb.")
 lol=msgbox("A simple vbs script by GamerzSocks. My GitHub: github.com/gamerzsocks. 2023. V.1.1",32,"This NOT is a Bomb.")
 
 
