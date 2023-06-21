@@ -18,3 +18,7 @@ NEW TEXT FOR REDWIRE!!!
 
 V1.1.1:
 more grammar fixes for redwire.
+
+
+V1.5:
+new wire, like blue, but it gets fixed, and then blows up, also known as raibow wire.
