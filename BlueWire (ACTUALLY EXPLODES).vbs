@@ -1,4 +1,4 @@
-msgbox"This Is A Bomb. It will Explode.",32,"This is a Bomb."
+msgbox"This is A Bomb. It will Explode.",32,"This is a Bomb."
 msgbox"Time Until Bomb Explodes: 10 Clicks",32,"This is a Bomb."
 msgbox"Time Until Bomb Explodes: 9 Clicks",32,"This is a Bomb."
 msgbox"Time Until Bomb Explodes: 8 Clicks",32,"This is a Bomb."
